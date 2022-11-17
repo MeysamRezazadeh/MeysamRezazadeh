@@ -11,18 +11,6 @@
 	
  </div>
 
-
-<p align="center">
-<a href="http://meysamrezazadeh.ir">
-<img  alt="Meysam Rezazadeh Website" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=wikipedia&logoColor=white&color=black" /></a>&nbsp;
-
-<a href="https://twitter.com/mey_rezazadeh">
-<img alt="Meysam Rezazadeh Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
-
-<a href="mailto:mey.rezazadeh@gmail.com?subject=Hi, there">
-<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p>
-
 <br>
 
 <img align="right" height="325px" alt="spotify" style="margin-right: 25px;" src="https://spotify-github-profile.vercel.app/api/view?uid=e7c5lbl2auzymsplth3k188sf&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
