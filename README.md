@@ -26,9 +26,9 @@
 <br>
 
 
-<div style="display:flex !important">
+<div style="display:inline-flex !important;">
 
-<div style="display:block !important">
+<div style="display:block !important;">
 
 ### I am a Self-taught Programmer; 🤩 &nbsp;
 
