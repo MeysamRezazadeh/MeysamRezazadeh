@@ -42,5 +42,3 @@
   <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeysamRezazadeh&theme=transparent&hide_langs_below=1&layout=compact" />
   <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api?username=MeysamRezazadeh&show_icons=true&theme=transparent&line_height=31" alt="Ohidur's github stats"/>
 </p>
-
-<br>
