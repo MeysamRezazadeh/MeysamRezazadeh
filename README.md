@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient" height="200"/>
   
   
-# 👋 Hello, I'm [Meysam](http://meysamrezazadeh.ir)! 🍓 🍫
+# 👋 Hello, I'm [Meysam](http://meysamrezazadeh.ir)! 💻
 
 
  
@@ -26,10 +26,12 @@
 <br>
 
 
-
-
- ### I am a Self-taught Programmer; 🤩 &nbsp;
 <div style="display:flex !important">
+
+<div style="display:block !important">
+
+### I am a Self-taught Programmer; 🤩 &nbsp;
+
 
 - 🔭 Looking for freelance opportunities
 
@@ -43,9 +45,15 @@
 
 - ⚡ Fun fact: I love working alone!
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e7c5lbl2auzymsplth3k188sf&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+</div>
+
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e7c5lbl2auzymsplth3k188sf&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
+
+
 
 <br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
