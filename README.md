@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient" height="200"/>
   
   
-# 👋 Hello, I'm [Meysam](http://meysamrezazadeh.ir)! 💻
+# 👋 Hello, I'm [Meysam](http://meysamrezazadeh.ir)! 🍓 🍫
 
 
  
@@ -25,35 +25,15 @@
 
 <br>
 
+<img align="right" height="270px" alt="GIF" src="https://spotify-github-profile.vercel.app/api/view?uid=e7c5lbl2auzymsplth3k188sf&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
 
-<div style="display:inline-flex !important;">
-
-<div style="display:block !important;">
-
-### I am a Self-taught Programmer; 🤩 &nbsp;
-
-
+ ### I am a Self-taught Programmer; 🤩 &nbsp;
 - 🔭 Looking for freelance opportunities
-
 - 🌱 I’m currently learning Three.js
-
 - 💬 Ask me about anything [here](https://github.com/MeysamRezazadeh/MeysamRezazadeh/issues)
-
 - 📫 How to reach me: mey.rezazadeh@gmail.com <br>
-
 - 🥅 2022 Goals: 3d modling and work with three.js
-
 - ⚡ Fun fact: I love working alone!
-
-</div>
-
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e7c5lbl2auzymsplth3k188sf&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
-
 
 <br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
