@@ -11,6 +11,8 @@
 	
  </div>
 
+![](https://discord.c99.nl/widget/theme-4/664809310827577345.png)  
+
 <br>
 
 <img align="right" height="325px" alt="spotify" style="margin-right: 25px;" src="https://spotify-github-profile.vercel.app/api/view?uid=e7c5lbl2auzymsplth3k188sf&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
